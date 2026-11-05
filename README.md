@@ -96,3 +96,7 @@ O limite de 23 GB foi simulado nessa A100, restringindo a memória disponível a
 ```bash
 rm -rf ~/vllm-env ~/.cache/huggingface/hub/models--openai--gpt-oss-20b ~/.cache/vllm
 ```
+
+## Licença
+
+Este repositório usa a licença [MIT](LICENSE). Ela cobre apenas estes arquivos: o modelo `gpt-oss-20b` é distribuído pela OpenAI sob a licença Apache 2.0.
